@@ -1,0 +1,64 @@
+C:\Users\dantport2899\source\repos\Constancia\Constancia\bin\Debug\Constancia.exe.config
+C:\Users\dantport2899\source\repos\Constancia\Constancia\bin\Debug\Constancia.exe
+C:\Users\dantport2899\source\repos\Constancia\Constancia\bin\Debug\Constancia.pdb
+C:\Users\dantport2899\source\repos\Constancia\Constancia\bin\Debug\Constancia.xml
+C:\Users\dantport2899\source\repos\Constancia\Constancia\obj\Debug\Constancia.vbprojAssemblyReference.cache
+C:\Users\dantport2899\source\repos\Constancia\Constancia\obj\Debug\Constancia.Resources.resources
+C:\Users\dantport2899\source\repos\Constancia\Constancia\obj\Debug\Constancia.vbproj.GenerateResource.cache
+C:\Users\dantport2899\source\repos\Constancia\Constancia\obj\Debug\Constancia.vbproj.CoreCompileInputs.cache
+C:\Users\dantport2899\source\repos\Constancia\Constancia\obj\Debug\Constancia.exe
+C:\Users\dantport2899\source\repos\Constancia\Constancia\obj\Debug\Constancia.xml
+C:\Users\dantport2899\source\repos\Constancia\Constancia\obj\Debug\Constancia.pdb
+C:\Users\dantport2899\source\repos\Constancia\Constancia\obj\Debug\Constancia.Form1.resources
+C:\Users\dantport2899\source\repos\Constancia\Constancia\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dantport2899\source\repos\Constancia\Constancia\bin\Debug\itextsharp.dll
+C:\Users\dantport2899\source\repos\Constancia\Constancia\bin\Debug\itextsharp.xml
+C:\Users\dantport2899\source\repos\Constancia\Constancia\obj\Debug\Constancia.vbproj.CopyComplete
+C:\Users\admin\Documents\proyADMON2\Constancia\bin\Debug\Constancia.exe.config
+C:\Users\admin\Documents\proyADMON2\Constancia\bin\Debug\Constancia.exe
+C:\Users\admin\Documents\proyADMON2\Constancia\bin\Debug\Constancia.pdb
+C:\Users\admin\Documents\proyADMON2\Constancia\bin\Debug\Constancia.xml
+C:\Users\admin\Documents\proyADMON2\Constancia\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\admin\Documents\proyADMON2\Constancia\bin\Debug\itextsharp.dll
+C:\Users\admin\Documents\proyADMON2\Constancia\bin\Debug\itextsharp.xml
+C:\Users\admin\Documents\proyADMON2\Constancia\obj\Debug\Constancia.vbprojAssemblyReference.cache
+C:\Users\admin\Documents\proyADMON2\Constancia\obj\Debug\Constancia.Form1.resources
+C:\Users\admin\Documents\proyADMON2\Constancia\obj\Debug\Constancia.Resources.resources
+C:\Users\admin\Documents\proyADMON2\Constancia\obj\Debug\Constancia.vbproj.GenerateResource.cache
+C:\Users\admin\Documents\proyADMON2\Constancia\obj\Debug\Constancia.vbproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\proyADMON2\Constancia\obj\Debug\Constancia.vbproj.CopyComplete
+C:\Users\admin\Documents\proyADMON2\Constancia\obj\Debug\Constancia.exe
+C:\Users\admin\Documents\proyADMON2\Constancia\obj\Debug\Constancia.xml
+C:\Users\admin\Documents\proyADMON2\Constancia\obj\Debug\Constancia.pdb
+C:\Users\admin\Documents\proyADMON2\proyADMON2\Constancia\bin\Debug\Constancia.exe.config
+C:\Users\admin\Documents\proyADMON2\proyADMON2\Constancia\bin\Debug\Constancia.exe
+C:\Users\admin\Documents\proyADMON2\proyADMON2\Constancia\bin\Debug\Constancia.pdb
+C:\Users\admin\Documents\proyADMON2\proyADMON2\Constancia\bin\Debug\Constancia.xml
+C:\Users\admin\Documents\proyADMON2\proyADMON2\Constancia\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\admin\Documents\proyADMON2\proyADMON2\Constancia\bin\Debug\itextsharp.dll
+C:\Users\admin\Documents\proyADMON2\proyADMON2\Constancia\bin\Debug\itextsharp.xml
+C:\Users\admin\Documents\proyADMON2\proyADMON2\Constancia\obj\Debug\Constancia.vbprojAssemblyReference.cache
+C:\Users\admin\Documents\proyADMON2\proyADMON2\Constancia\obj\Debug\Constancia.Form1.resources
+C:\Users\admin\Documents\proyADMON2\proyADMON2\Constancia\obj\Debug\Constancia.Resources.resources
+C:\Users\admin\Documents\proyADMON2\proyADMON2\Constancia\obj\Debug\Constancia.vbproj.GenerateResource.cache
+C:\Users\admin\Documents\proyADMON2\proyADMON2\Constancia\obj\Debug\Constancia.vbproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\proyADMON2\proyADMON2\Constancia\obj\Debug\Constancia.vbproj.CopyComplete
+C:\Users\admin\Documents\proyADMON2\proyADMON2\Constancia\obj\Debug\Constancia.exe
+C:\Users\admin\Documents\proyADMON2\proyADMON2\Constancia\obj\Debug\Constancia.xml
+C:\Users\admin\Documents\proyADMON2\proyADMON2\Constancia\obj\Debug\Constancia.pdb
+C:\Users\dantport2899\source\repos\P_02 Constancia de Software de Uso por Equipov2\proyADMON2\Constancia\bin\Debug\Constancia.exe.config
+C:\Users\dantport2899\source\repos\P_02 Constancia de Software de Uso por Equipov2\proyADMON2\Constancia\bin\Debug\Constancia.exe
+C:\Users\dantport2899\source\repos\P_02 Constancia de Software de Uso por Equipov2\proyADMON2\Constancia\bin\Debug\Constancia.pdb
+C:\Users\dantport2899\source\repos\P_02 Constancia de Software de Uso por Equipov2\proyADMON2\Constancia\bin\Debug\Constancia.xml
+C:\Users\dantport2899\source\repos\P_02 Constancia de Software de Uso por Equipov2\proyADMON2\Constancia\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dantport2899\source\repos\P_02 Constancia de Software de Uso por Equipov2\proyADMON2\Constancia\bin\Debug\itextsharp.dll
+C:\Users\dantport2899\source\repos\P_02 Constancia de Software de Uso por Equipov2\proyADMON2\Constancia\bin\Debug\itextsharp.xml
+C:\Users\dantport2899\source\repos\P_02 Constancia de Software de Uso por Equipov2\proyADMON2\Constancia\obj\Debug\Constancia.vbprojAssemblyReference.cache
+C:\Users\dantport2899\source\repos\P_02 Constancia de Software de Uso por Equipov2\proyADMON2\Constancia\obj\Debug\Constancia.Form1.resources
+C:\Users\dantport2899\source\repos\P_02 Constancia de Software de Uso por Equipov2\proyADMON2\Constancia\obj\Debug\Constancia.Resources.resources
+C:\Users\dantport2899\source\repos\P_02 Constancia de Software de Uso por Equipov2\proyADMON2\Constancia\obj\Debug\Constancia.vbproj.GenerateResource.cache
+C:\Users\dantport2899\source\repos\P_02 Constancia de Software de Uso por Equipov2\proyADMON2\Constancia\obj\Debug\Constancia.vbproj.CoreCompileInputs.cache
+C:\Users\dantport2899\source\repos\P_02 Constancia de Software de Uso por Equipov2\proyADMON2\Constancia\obj\Debug\Constancia.vbproj.CopyComplete
+C:\Users\dantport2899\source\repos\P_02 Constancia de Software de Uso por Equipov2\proyADMON2\Constancia\obj\Debug\Constancia.exe
+C:\Users\dantport2899\source\repos\P_02 Constancia de Software de Uso por Equipov2\proyADMON2\Constancia\obj\Debug\Constancia.xml
+C:\Users\dantport2899\source\repos\P_02 Constancia de Software de Uso por Equipov2\proyADMON2\Constancia\obj\Debug\Constancia.pdb
